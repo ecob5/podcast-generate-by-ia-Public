@@ -16,7 +16,7 @@ Os prompts foram melhorados para ficarem mais claros, organizados e consistentes
 
 ---
 
-## Prompt 1 — Podcast Host Visual
+## Prompt 1 — Apresentador do Podcast
 
 | Campo             | Descrição                                               |
 | ----------------- | ------------------------------------------------------- |
@@ -35,7 +35,7 @@ Camera settings: f/8, 1/100s, ISO 100. Complex lighting, backlighting, dynamic c
 
 ---
 
-## Prompt 2 — Robotic Canarinho Mascot
+## Prompt 2 — Canarinho Robotico
 
 | Campo             | Descrição                                      |
 | ----------------- | ---------------------------------------------- |
@@ -52,7 +52,7 @@ Create a robotic version of the Brazilian national team’s “Canarinho” masc
 
 ---
 
-## Prompt 3 — Podcast Episode Cover
+## Prompt 3 — Imagem de Capa
 
 | Campo              | Descrição                                           |
 | ------------------ | --------------------------------------------------- |
