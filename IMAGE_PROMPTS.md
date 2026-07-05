@@ -79,3 +79,4 @@ Use clean typography, balanced composition, and a professional cover-art style. 
 ## Observação
 
 Os prompts foram escritos em inglês para facilitar o uso em ferramentas de geração de imagem e para manter o projeto mais acessível em um contexto internacional.
+
