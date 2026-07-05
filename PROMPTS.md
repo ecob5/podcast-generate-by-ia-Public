@@ -1,6 +1,6 @@
-Prompts Used in the Project
+Prompts Utilizados no Projeto
 
-This file contains the main prompts used to create the podcast project Canary Circuit, focused on football, technology, the 2026 World Cup, and the future impact of these innovations on Brazilian football.
+Este arquivo contém os principais prompts utilizados para criar o projeto de podcast *Canary Circuit*, focado em futebol, tecnologia, a Copa do Mundo de 2026 e o ​​impacto futuro dessas inovações no futebol brasileiro.
 
 Prompt 1 — Podcast Name Ideas
 You are a podcast writer, and we are creating a football podcast focused on new technologies at the 2026 World Cup. I would like your help in creating 5 creative podcast name suggestions that include a play on words related to the Brazilian national team.
@@ -18,6 +18,8 @@ The podcast will discuss the technologies implemented at the World Cup and how t
 - Do not use words in Portuguese in the title.
 - Do not use any of the following words: VAR, FIFA, and offside.
 - Do not use the words "code" or "AI" in the name, nor any variations of them.
+
+
 Prompt 2 — Podcast Script
 You are a podcast writer, and we are creating a script for a podcast about the 2026 World Cup, focused on the new technologies introduced in the tournament.
 
